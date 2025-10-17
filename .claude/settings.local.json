@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx -y create-playwright --help)",
+      "Bash(npx:*)",
+      "Bash(node --version:*)",
+      "Bash(npm:*)",
+      "Bash(node analyze-landing-page.js:*)",
+      "Bash(claude mcp add playwright npx '@playwright/mcb@latest')",
+      "Bash(cat:*)",
+      "Read(//c/Users/faisa/**)",
+      "Bash(claude mcp list:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
