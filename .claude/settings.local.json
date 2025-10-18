@@ -15,7 +15,8 @@
       "Bash(claude mcp add playwright npx '@playwright/mcb@latest' --project)",
       "Bash(claude mcp add:*)",
       "Bash(claude mcp remove:*)",
-      "Bash(start \"\" \"file:///C:/Users/faisa/OneDrive/Desktop/Cursor/index.html\")"
+      "Bash(start \"\" \"file:///C:/Users/faisa/OneDrive/Desktop/Cursor/index.html\")",
+      "Bash(git add .)"
     ],
     "deny": [],
     "ask": []
